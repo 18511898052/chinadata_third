@@ -6,6 +6,7 @@
             "email": "1219212571@qq.com"
         }
     ],
+    "version": "v2.1.0",
     "description": "my third project",
     "license": "Apache-2.0",
     "require": {},
