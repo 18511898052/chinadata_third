@@ -1,0 +1,17 @@
+{
+    "name": "chinadata/third",
+    "authors": [
+        {
+            "name": "hs",
+            "email": "1219212571@qq.com"
+        }
+    ],
+    "description": "my third project",
+    "license": "Apache-2.0",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Chinadata\\Third\\": "src/"
+      }
+    }
+}
