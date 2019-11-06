@@ -7,3 +7,4 @@ $auth = new IndexController();
 $auth->test();
 $auth->test();
 $auth->test();
+$auth->test();
