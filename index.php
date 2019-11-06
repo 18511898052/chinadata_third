@@ -5,3 +5,4 @@ use Chinadata\Third\IndexController;
 
 $auth = new IndexController();
 $auth->test();
+$auth->test();
