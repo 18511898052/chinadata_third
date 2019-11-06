@@ -9,7 +9,7 @@
     "description": "my third project",
     "license": "Apache-2.0",
     "require": {
-	"chinadata/first": "^1.0.0",
+	"chinadata/first": "^1.0",
     },
     "autoload": {
       "psr-4": {
