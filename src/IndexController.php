@@ -3,6 +3,6 @@
 namespace Chinadata\Third;
 class IndexController{
 	public function test(){
-		echo'test onesooooaff hook fuck mygod funck';    
+		echo'test ppp onesooooaff hook fuck mygod funck';    
 	}
 }
